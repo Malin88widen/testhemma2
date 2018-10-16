@@ -19,3 +19,5 @@ och lite till..
 bara som test!
 
 och igen för commandotolken..
+
+och igen
