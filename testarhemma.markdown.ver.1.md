@@ -17,3 +17,5 @@ hej hopp, här ändrar vi!!
 och lite till..
 
 bara som test!
+
+och igen för commandotolken..
