@@ -23,4 +23,4 @@ och igen för commandotolken..
 
 och igen
 
-nu skriver jag lite siffror 111000888444555..ok?
+nu skriver jag lite siffror 111000888444555..ok? hej, ändrar igen..
