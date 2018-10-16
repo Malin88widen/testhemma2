@@ -13,3 +13,12 @@ jag hade fel..<br>
 vilken tur!
 
 hhhej där, detta är mastern..
+hej hopp, här ändrar vi!!
+
+och lite till..
+
+bara som test!
+
+och igen för commandotolken..
+
+och igen
